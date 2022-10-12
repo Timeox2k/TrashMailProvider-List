@@ -19,3 +19,5 @@ icloud.com
 cyon.ch
 hostpoint.ch
 zohomail.eu
+qq.com
+foxmail.com
