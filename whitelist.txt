@@ -14,3 +14,8 @@ yahoo.co.jp
 yahoo.co.uk
 yahoo.co.uk
 yahoo.com.tw
+t-online.de
+icloud.com
+cyon.ch
+hostpoint.ch
+zohomail.eu
